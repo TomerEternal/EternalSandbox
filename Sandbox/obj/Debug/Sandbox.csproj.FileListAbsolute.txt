@@ -1,0 +1,9 @@
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\bin\Debug\Sandbox.exe.config
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\bin\Debug\Sandbox.exe
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\bin\Debug\Sandbox.pdb
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\bin\Debug\IEnumerable_Imposter.dll
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\bin\Debug\IEnumerable_Imposter.pdb
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\obj\Debug\Sandbox.exe
+c:\users\tomer hirshfeld\source\repos\Sandbox\Sandbox\obj\Debug\Sandbox.pdb

@@ -1,0 +1,6 @@
+c:\Users\tomer hirshfeld\source\repos\Sandbox\IEnumerable Imposter\bin\Debug\IEnumerable_Imposter.dll
+c:\Users\tomer hirshfeld\source\repos\Sandbox\IEnumerable Imposter\bin\Debug\IEnumerable_Imposter.pdb
+c:\Users\tomer hirshfeld\source\repos\Sandbox\IEnumerable Imposter\obj\Debug\IEnumerable_Imposter.csproj.CoreCompileInputs.cache
+c:\Users\tomer hirshfeld\source\repos\Sandbox\IEnumerable Imposter\obj\Debug\IEnumerable_Imposter.dll
+c:\Users\tomer hirshfeld\source\repos\Sandbox\IEnumerable Imposter\obj\Debug\IEnumerable_Imposter.pdb
+C:\Users\Tomer Hirshfeld\source\repos\Sandbox\IEnumerable Imposter\obj\Debug\IEnumerable_Imposter.csprojResolveAssemblyReference.cache
